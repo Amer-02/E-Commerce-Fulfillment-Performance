@@ -1,2 +1,5 @@
-# E-Commerce-Fulfillment-Performance
-Interactive dashboard to analyze a D2C company's e-commerce fulfillment performance across cities, products, and partners. Tracks delivery delays, cancellations, customer ratings, and revenue patterns to uncover inefficiencies and improve operations.
+# E-Commerce-Fulfillment-Performance (Excel + tableau)
+
+This project explores the delivery efficiency and customer experience of an e-commerce business by analyzing its fulfillment performance data.
+
+## 📂 Files
