@@ -14,7 +14,7 @@ This project explores the delivery efficiency and customer experience of an e-co
 - Tableau
 
 ## 📈 Sample Dashboard
-<img width="1919" height="1079" alt="Screenshot 2025-08-04 003312" src="https://github.com/user-attachments/assets/e0a123d0-083e-4513-b1a0-1e0b47d78b68" />
+<img width="1919" height="1041" alt="Screenshot 2025-08-04 005045" src="https://github.com/user-attachments/assets/895a6c3a-3f66-4383-8d60-166f10c45409" />
 
 ## 📌 Key Insights
 - Mumbai contributes highest revenue but faces longer delivery times.
